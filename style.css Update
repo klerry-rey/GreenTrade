@@ -1,0 +1,10 @@
+.button {
+    background-color: #008CBA; /* Change to a modern color */
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.button:hover {
+    background-color: #005f73; /* Darker shade for hover */
+}
